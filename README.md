@@ -1,4 +1,4 @@
-# ADES Microservices Infrastructure
+# Microservices Infrastructure
 
 **Multi-Cloud Kubernetes Deployment Guide**
 
